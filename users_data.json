@@ -1,0 +1,22 @@
+{
+    "MS": {
+        "ratings": {
+            "CRD-B": 1,
+            "CRD-A": 2,
+            "BMI": 3,
+            "TCRX": 3,
+            "AMED": 3,
+            "FLNG": 3,
+            "ASAI": 5,
+            "SUZ": 5,
+            "VIV": 5,
+            "EA": 4,
+            "TDS": 4,
+            "ODD": 0,
+            "TARS": 0,
+            "ODV": 0,
+            "ALYAF": 0,
+            "AE": 0
+        }
+    }
+}
